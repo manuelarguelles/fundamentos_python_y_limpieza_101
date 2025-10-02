@@ -1,0 +1,22 @@
+transaccion_id,fecha_venta,producto_id,producto,categoria,precio,cantidad,cliente_id,cliente,region,descuento
+TXN001,2024-01-15,PROD001,Laptop Dell XPS 13,Computadoras,1299.99,2,CLI001,Juan Pérez,Norte,0.1
+TXN002,2024-01-16,PROD002,Mouse Logitech MX,Accesorios,$25.50,50,CLI002,María García,Sur,0.05
+TXN003,2024/01/17,PROD003,Teclado Mecánico,Accesorios,89.99,30,CLI003,Carlos López,Este,
+TXN004,2024-01-18,PROD004,Monitor Samsung 27",Computadoras,349.99,10,CLI004,Ana Martínez,Oeste,0.15
+TXN005,2024-01-19,PROD001,Laptop Dell XPS 13,Computadoras,1299.99,1,CLI005,Luis Rodríguez,Norte,0.1
+TXN006,2024-01-20,PROD005,Webcam Logitech,Accesorios,79.99,,CLI006,  Sofia Hernández  ,Centro,0
+TXN007,15-01-2024,PROD006,Audífonos Sony,Accesorios,N/A,25,CLI007,Pedro González,Sur,0.2
+TXN008,2024-01-22,PROD007,Tablet Samsung,Tablets,450.00,5,CLI008,Laura Sánchez,Norte,0.1
+TXN009,2024-01-23,PROD002,Mouse Logitech MX,accesorios,25.50,100,CLI009,Roberto Díaz,Este,null
+TXN010,2024-01-24,PROD008,Impresora HP,Periféricos,199.99,8,CLI010,Carmen Ruiz,Oeste,0.05
+TXN001,2024-01-15,PROD001,Laptop Dell XPS 13,Computadoras,1299.99,2,CLI001,Juan Pérez,Norte,0.1
+TXN011,2024-01-25,PROD009,Router TP-Link,Redes,59.99,15,CLI011,Miguel Torres,Centro,-0.05
+TXN012,2024-01-26,PROD010,SSD Samsung 1TB,Almacenamiento,129.99,20,CLI012,Isabel Flores,Sur,0.08
+TXN013,,PROD003,Teclado Mecánico,Accesorios,89.99,12,CLI013,Francisco Morales,Norte,0.1
+TXN014,2024-01-28,PROD011,RAM Corsair 16GB,Componentes,95.00,30,CLI014,Patricia Castro,Este,0.12
+TXN015,2024-01-29,PROD004,Monitor Samsung 27",COMPUTADORAS,349.99,3,CLI015,  Diego Vargas,Oeste,0.15
+TXN016,2024-01-30,PROD012,Mousepad Gamer,Accesorios,15.99,-5,CLI016,Valentina Rojas,Centro,0
+TXN017,2024-02-01,PROD001,Laptop Dell XPS 13,Computadoras,1299.99,1,CLI017,Andrés Medina,Sur,0.1
+TXN018,2024-02-02,PROD013,Cable HDMI,Accesorios,12.99,200,CLI018,Camila Ortiz,Norte,0.05
+TXN019,2024-02-03,PROD014,Batería Externa,Accesorios,35.00,40,CLI019,Javier Núñez,Este,
+TXN020,2024-02-04,PROD015,Silla Gamer,Mobiliario,299.99,4,CLI020,Daniela Ramírez,Oeste,0.2
